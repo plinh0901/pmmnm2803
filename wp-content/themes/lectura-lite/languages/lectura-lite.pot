@@ -1,0 +1,599 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lectura Lite v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-23 14:08+0000\n"
+"POT-Revision-Date: Thu Feb 23 2017 12:12:06 GMT+0100 (W. Europe Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <academiathemes@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:62
+#, php-format
+msgid "%s Video Guide"
+msgstr ""
+
+#. 1: date, 2: time
+#: functions.php:307
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Theme name and version
+#: ilovewp-admin/ilovewp-theme-settings.php:72
+#, php-format
+msgid ""
+"<span class=\"theme-name\">%1$s Lite Theme</span> <span class=\"theme-"
+"version\">(version %2$s)</span>"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:69
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:74
+msgid "Add a Rating for Lectura Lite"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"Apologies, but the requested page cannot be found. Perhaps searching will "
+"help find a related page."
+msgstr ""
+
+#: header.php:78
+msgid "Appearance > Customize"
+msgstr ""
+
+#: header.php:77
+msgid "Appearance > Menus"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:134
+msgid "Background"
+msgstr ""
+
+#: customizer/sections/background.php:14
+msgid "Background Color"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:19
+msgid "Body Text"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:93
+#: customizer/sections/color-scheme.php:145
+msgid "Border Color"
+msgstr ""
+
+#: 404.php:18
+msgid "Browse Categories"
+msgstr ""
+
+#: customizer/sections/general.php:9
+msgid "Centered"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:73
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:108
+msgid "Click the image below to open the video guide in a new browser tab."
+msgstr ""
+
+#: comments.php:52 comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: slideshow-home.php:34
+msgid "Continue Reading"
+msgstr ""
+
+#: footer.php:39 customizer/sections/footer.php:14
+msgid "Copyright &copy; "
+msgstr ""
+
+#. This is the copyright notice that appears in the footer of the website.
+#: customizer/helpers-defaults.php:33
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: customizer/sections/footer.php:18
+msgid "Copyright Text"
+msgstr ""
+
+#. %1$s current user display name.
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:62
+#, php-format
+msgid ""
+"Dear %1$s! I hope you are happy with everything that the %2$s has to offer. "
+"%3$sIf you can spare a moment, please consider adding a rating for %4$s on "
+"WordPress.org. %3$sIt helps me continue providing updates and support for "
+"this theme."
+msgstr ""
+
+#: customizer/sections/general.php:41
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: customizer/sections/footer.php:29
+msgid "Display \"Theme by AcademiaThemes\""
+msgstr ""
+
+#: customizer/sections/general.php:64
+msgid "Display Featured Images in Posts and Pages"
+msgstr ""
+
+#: customizer/sections/general.php:95
+msgid "Display Featured Pages on Homepage"
+msgstr ""
+
+#: customizer/sections/general.php:84
+msgid "Display Slideshow"
+msgstr ""
+
+#: customizer/sections/general.php:53
+msgid "Display the Dynamic Menu in Sidebar of Pages"
+msgstr ""
+
+#: customizer/sections/general.php:106
+msgid "Display the excerpts of Featured Pages"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:88
+msgid "Documentation and Support"
+msgstr ""
+
+#: functions.php:289 functions.php:317
+msgid "Edit"
+msgstr ""
+
+#: ilovewp-admin/post-options.php:65
+msgid "Feature this Post in the Homepage Slideshow"
+msgstr ""
+
+#: customizer/sections/general.php:117
+msgid "Featured Page #1"
+msgstr ""
+
+#: customizer/sections/general.php:131
+msgid "Featured Page #2"
+msgstr ""
+
+#: customizer/sections/general.php:143
+msgid "Featured Page #3"
+msgstr ""
+
+#: customizer/customizer.php:208 customizer/sections/color-scheme.php:124
+msgid "Footer"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:45
+msgid "Footer: Column 1"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:54
+msgid "Footer: Column 2"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:63
+msgid "Footer: Column 3"
+msgstr ""
+
+#: slideshow-home.php:50
+msgid "For more information please"
+msgstr ""
+
+#. Name of the template
+#: page-templates/fullwidth.php:2
+msgid "Full Width Page"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:9
+msgid "General"
+msgstr ""
+
+#: customizer/sections/general.php:19
+msgid "General Settings"
+msgstr ""
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:58
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:98
+msgid "Go to Lectura Lite Support Forum"
+msgstr ""
+
+#: customizer/sections/general.php:29
+msgid "Header Layout"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:75
+msgid "Hide this notice"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:23
+msgid "Homepage Content: Left Column"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:32
+msgid "Homepage Content: Right Column"
+msgstr ""
+
+#: customizer/sections/general.php:74
+msgid "Homepage Settings"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.ilovewp.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.ilovewp.com/themes/lectura-lite/"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:143
+msgid ""
+"If you enjoy using Lectura Lite Theme, please leave a review for it on "
+"WordPress.org. It helps us continue providing updates and support for it."
+msgstr ""
+
+#. Author of the theme
+msgid "ILOVEWP.com"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:141
+msgid "Leave a Review"
+msgstr ""
+
+#. Name of the theme
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:54
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:46
+msgid "Lectura Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Lectura Lite is a fast, clean and mobile friendly (responsive) WordPress "
+"theme. It works well with page builders like Elementor, Beaver Builder, "
+"Visual Composer, Brizy, Divi, SiteOrigin, etc. Lectura Lite theme is best "
+"used to create a website for a school, university, kindergarten, church, "
+"museum, city hall, local government office, NGO, nonprofit or different "
+"education institutions. Other features include: Responsive Design; Mobile "
+"Menu; Blog ready; SEO code; Custom Widgets; Color Customization; Layout "
+"Settings; Translation Ready; Regular updates. Check out the theme's demo and "
+"video tutorial here: https://www.ilovewp.com/themes/lectura-lite/"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:46
+msgid "Lectura Lite Theme"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:66
+msgid "Lectura Lite Theme Screenshot"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:109
+msgid "Lectura Lite Theme Video Tutorial"
+msgstr ""
+
+#: customizer/sections/general.php:8 customizer/sections/general.php:13
+msgid "Left"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:178
+msgid "Link"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:30
+msgid "Link Color"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:41
+msgid "Link Color on Hover"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:189
+msgid "Link on Hover"
+msgstr ""
+
+#: functions.php:265
+msgid "Logo for "
+msgstr ""
+
+#: functions.php:110 customizer/sections/color-scheme.php:72
+msgid "Main Menu"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:82
+msgid "Menu Background"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:104
+msgid "Menu Item"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:115
+msgid "Menu Item on Hover"
+msgstr ""
+
+#: template-parts/mobile-menu.php:19
+msgid "Mobile"
+msgstr ""
+
+#: 404.php:23
+msgid "Monthly Archives"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Newer Comments"
+msgstr ""
+
+#: customizer/helpers.php:141 customizer/helpers.php:191
+#: customizer/helpers.php:241
+msgid "None"
+msgstr ""
+
+#: customizer/customizer.php:273
+msgid "Official Theme Page"
+msgstr ""
+
+#: comments.php:55 comments.php:76
+msgid "Older Comments"
+msgstr ""
+
+#: template-parts/mobile-menu.php:1
+msgid "Open Menu"
+msgstr ""
+
+#: header.php:78
+msgid "Other options and theme elements can be set up on this page:"
+msgstr ""
+
+#: 404.php:11
+msgid "Page not found"
+msgstr ""
+
+#: content-page-fullwidth.php:17 content-page.php:18 content-post.php:21
+msgid "Pages"
+msgstr ""
+
+#: featured-pages.php:31 loop-archives.php:33 loop.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:289
+msgid "Pingback:"
+msgstr ""
+
+#: slideshow-home.php:48
+msgid "Please mark some posts as \"Featured\" for the Homepage Slideshow."
+msgstr ""
+
+#: header.php:77
+msgid "Please set your Main Menu on this page:"
+msgstr ""
+
+#: ilovewp-admin/post-options.php:11
+msgid "Post Options"
+msgstr ""
+
+#: footer.php:38
+msgid "Powered by"
+msgstr ""
+
+#: customizer/customizer.php:285
+msgid "Rate Lectura Lite"
+msgstr ""
+
+#: slideshow-home.php:50
+msgid "read the documentation"
+msgstr ""
+
+#: index.php:41
+msgid "Recent Posts"
+msgstr ""
+
+#: customizer/sections/general.php:14
+msgid "Right"
+msgstr ""
+
+#: search.php:12
+msgid "Search Results for"
+msgstr ""
+
+#: functions.php:111
+msgid "Secondary (Top) Menu"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:74
+msgid "Show sub menu"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:63
+msgid "Sidebar Widget Title Background"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:52
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: customizer/sections/background.php:10
+msgid "Site Background"
+msgstr ""
+
+#: header.php:17
+msgid "Skip to content"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:132
+msgid "Subscribe"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:123
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#. Theme name and link to WordPress.org Support forum for the theme
+#: ilovewp-admin/ilovewp-theme-settings.php:93
+#, php-format
+msgid ""
+"Support for %1$s Theme is provided in the official WordPress.org community "
+"support forums. "
+msgstr ""
+
+#: customizer/customizer.php:281
+msgid "Support Forum"
+msgstr ""
+
+#: content-post.php:22
+msgid "Tags"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:156
+msgid "Text"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:49
+msgid "Thank you for choosing Lectura Lite Theme!"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:95
+msgid ""
+"The usual response time is less than 45 minutes during regular work hours, "
+"Monday through Friday, 9:00am - 6:00pm (GMT+01:00). <br>Response time can be "
+"slower outside of these hours."
+msgstr ""
+
+#: customizer/customizer.php:207
+msgid "Theme Colors"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:77
+msgid "Theme Demo"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:76
+msgid "Theme Details"
+msgstr ""
+
+#: customizer/customizer.php:277
+msgid "Theme Documentation"
+msgstr ""
+
+#: customizer/sections/footer.php:8
+msgid "Theme Footer"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:76
+msgid "Theme Help"
+msgstr ""
+
+#: customizer/customizer.php:333
+msgid "Theme Help & Support"
+msgstr ""
+
+#: customizer/customizer.php:206
+msgid "Theme Settings"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:78
+#: ilovewp-admin/ilovewp-theme-settings.php:105
+msgid "Theme Video Tutorial"
+msgstr ""
+
+#. Link to dashboard pages page
+#: customizer/sections/general.php:119
+#, php-format
+msgid "This list is populated with <a href=\"%1$s\">Pages</a>."
+msgstr ""
+
+#. %1$s: theme name, %2$s link
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:53
+#, php-format
+msgid ""
+"To take advantage of everything that this theme can offer, please take a "
+"look at the <a href=\"%2$s\">Get Started with %1$s</a> page."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:98
+msgid "View Lectura Lite Documentation"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:127
+msgid ""
+"We send out the newsletter once every few months. It contains information "
+"about our new themes and important theme updates."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:134
+msgid ""
+"We use Mailchimp as our marketing platform. By clicking above to subscribe, "
+"you acknowledge that your information will be transferred to Mailchimp for "
+"processing."
+msgstr ""
+
+#: customizer/sections/color-scheme.php:167
+msgid "Widget Title"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:145
+msgid "Write a Review for Lectura Lite"
+msgstr ""
+
+#: functions.php:313
+msgid "Your comment is awaiting moderation."
+msgstr ""
